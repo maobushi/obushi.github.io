@@ -3,22 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://obushi.github.io/profile/</loc>
+    <loc>https://obushi.com/categories/</loc>
   </url>
   
   <url>
-    <loc>https://obushi.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://obushi.com/works/magnifinger/</loc>
   </url>
   
   <url>
-    <loc>https://obushi.github.io/</loc>
-    <priority>0</priority>
+    <loc>https://obushi.com/publications/</loc>
   </url>
   
   <url>
-    <loc>https://obushi.github.io/tags/</loc>
-    <priority>0</priority>
+    <loc>https://obushi.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://obushi.com/works/temari/</loc>
+  </url>
+  
+  <url>
+    <loc>https://obushi.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://obushi.com/works/</loc>
   </url>
   
 </urlset>

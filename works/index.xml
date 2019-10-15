@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Top on Noriyasu Obushi</title>
-    <link>https://obushi.com/works/</link>
+    <link>https://www.obushi.com/works/</link>
     <description>Recent content in Top on Noriyasu Obushi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://obushi.com/works/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.obushi.com/works/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>MagniFinger</title>
-      <link>https://obushi.com/works/magnifinger/</link>
+      <link>https://www.obushi.com/works/magnifinger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://obushi.com/works/magnifinger/</guid>
+      <guid>https://www.obushi.com/works/magnifinger/</guid>
       <description>MagniFinger Abstract MagniFinger is a fingertip-worn microscopy device that augments the limited abilities of human visual and tactile sensory systems in micrometer-scale environments. MagniFinger makes use of the finger&amp;rsquo;s dexterous motor skills to achieve precise and intuitive control while allowing the user to observe the desired position by placing a fingertip. To implement the fingertip-sized device and its tactile display, we have built a system comprising a ball lens, an image sensor, and a thin piezoelectric actuator.</description>
     </item>
     
     <item>
       <title>Temari</title>
-      <link>https://obushi.com/works/temari/</link>
+      <link>https://www.obushi.com/works/temari/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://obushi.com/works/temari/</guid>
+      <guid>https://www.obushi.com/works/temari/</guid>
       <description>Temari Abstract To provide cultural night experiences with tourists in Kanazawa City, we have developped and exhibited our interactive digital installation titled &amp;ldquo;Temari and Shadow&amp;rdquo; at the open space of the 21st Century Museum of Contemporary Art, Kanazawa. Our installation utilizes shadows cast by people standing in front of a projector. We chose Kanazawa&amp;rsquo;s Kaga Temari, a hand-sized colorful toy ball made of thread, as a motif of this work.</description>
     </item>
     
